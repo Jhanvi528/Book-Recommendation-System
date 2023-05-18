@@ -1,0 +1,20 @@
+.all-div-outer {
+  padding: 3%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.head-tag{
+  padding-top: 3%;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+  text-decoration: underline;
+
+}

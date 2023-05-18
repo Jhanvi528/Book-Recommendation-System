@@ -1,0 +1,32 @@
+.card {
+  padding: 1% 0%;
+
+  text-decoration: none !important;
+  text-decoration-line: none;
+}
+.card-image {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.card div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-image img {
+  height: 200px;
+  width: 200px;
+}
+
+.card-text {
+  padding: 3% 0%;
+  margin: 0% 5%;
+  text-align: center;
+  font-family: "Alegreya";
+  color: black;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.card-text div {
+  padding: 1% 0%;
+}
